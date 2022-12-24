@@ -1,0 +1,1 @@
+import"./near.vue_vue_type_script_setup_true_lang.dd0bd8a6.js";import{_ as i}from"./near.vue_vue_type_script_setup_true_lang.dd0bd8a6.js";import"./entry.1e8cb11d.js";import"./config.1c5017cc.js";export{i as default};

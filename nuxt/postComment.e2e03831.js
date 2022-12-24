@@ -1,1 +1,0 @@
-import"./postComment.vue_vue_type_script_setup_true_lang.b1f9a6cd.js";import{_}from"./postComment.vue_vue_type_script_setup_true_lang.b1f9a6cd.js";import"./entry.a88ff9a0.js";import"./config.525612b3.js";import"./gittalk.8f4054c1.js";import"./_commonjsHelpers.83638c5a.js";export{_ as default};
