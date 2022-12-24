@@ -1,1 +1,0 @@
-const e={key:"v-85fa9b2a",path:"/guide/config.html",title:"\u52A8\u624B\u5199config\u6587\u4EF6",lang:"en-US",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:null},filePathRelative:"guide/config.md"};export{e as data};

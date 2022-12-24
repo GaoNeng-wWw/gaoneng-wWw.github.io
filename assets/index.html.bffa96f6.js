@@ -1,5 +1,0 @@
-import{c as n}from"./app.dc721610.js";import{_ as a}from"./plugin-vue_export-helper.21dcd24c.js";const s={},e=n(`<h2 id="\u6784\u5EFA\u9879\u76EE\u548C\u5403\u996D\u4E00\u6837\u7B80\u5355" tabindex="-1"><a class="header-anchor" href="#\u6784\u5EFA\u9879\u76EE\u548C\u5403\u996D\u4E00\u6837\u7B80\u5355" aria-hidden="true">#</a> \u6784\u5EFA\u9879\u76EE\u548C\u5403\u996D\u4E00\u6837\u7B80\u5355</h2><div class="language-bash ext-sh line-numbers-mode"><pre class="language-bash"><code><span class="token function">mkdir</span> cralwer
-<span class="token builtin class-name">cd</span> cralwer
-<span class="token function">yarn</span> <span class="token function">add</span> gachi --save
-gachi-cli init <span class="token builtin class-name">.</span>
-</code></pre><div class="line-numbers"><span class="line-number">1</span><br><span class="line-number">2</span><br><span class="line-number">3</span><br><span class="line-number">4</span><br></div></div>`,2);function c(r,i){return e}var p=a(s,[["render",c]]);export{p as default};
