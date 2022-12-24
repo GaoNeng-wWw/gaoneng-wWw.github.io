@@ -1,0 +1,1 @@
+const e={key:"v-095848e8",path:"/api/parser.html",title:"Parser",lang:"en-US",frontmatter:{},excerpt:"",headers:[{level:2,title:"Parser.query",slug:"parser-query",children:[]}],git:{updatedTime:null},filePathRelative:"api/parser.md"};export{e as data};
