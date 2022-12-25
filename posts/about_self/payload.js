@@ -1,1 +1,0 @@
-export default {data:{"content-query-pBUOpdWpFg":{_path:"\u002Fposts\u002Fabout_self"}},prerenderedAt:void 0}
