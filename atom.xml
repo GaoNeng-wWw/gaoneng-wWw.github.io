@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gaoneng-www.github.io</id>
     <title>高能的木屋</title>
-    <updated>2022-12-30T06:10:09.485Z</updated>
+    <updated>2022-12-30T06:15:24.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <author>
         <name>高能</name>
@@ -24,8 +24,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[DNS原理简述]]></title>
-        <id>https://gaoneng-www.github.io/posts/what-is-DNS/</id>
-        <link href="https://gaoneng-www.github.io/posts/what-is-DNS/"/>
+        <id>https://gaoneng-www.github.io/posts/what-is-dns/</id>
+        <link href="https://gaoneng-www.github.io/posts/what-is-dns/"/>
         <updated>2022-12-22T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[DNS服务是互联网必不可少的一项服务，在并不遥远的以前，人们需要记忆IP地址来访问网站，这十分的痛苦，但在当时也的确没有什么很好的办法。直到DNS出现了]]></summary>
         <author>
