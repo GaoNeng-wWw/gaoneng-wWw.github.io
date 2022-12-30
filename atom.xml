@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://gaoneng-www.github.io</id>
+    <title>高能的木屋</title>
+    <updated>2022-12-30T06:10:09.485Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>高能</name>
+        <email>gaonenggg@outlook.com</email>
+        <uri>https://gaoneng-www.github.io</uri>
+    </author>
+    <link rel="alternate" href="https://gaoneng-www.github.io"/>
+    <subtitle>主要是发一些杂七杂八的东西,例如前端开发、后端开发、CTF解题、CTF解题思路等...</subtitle>
+    <entry>
+        <title type="html"><![CDATA[自我介绍]]></title>
+        <id>https://gaoneng-www.github.io/posts/about/</id>
+        <link href="https://gaoneng-www.github.io/posts/about/"/>
+        <updated>2022-11-09T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[关于高能目前公开的情报]]></summary>
+        <author>
+            <name>高能</name>
+            <email>gaonenggg@outlook.com</email>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DNS原理简述]]></title>
+        <id>https://gaoneng-www.github.io/posts/what-is-DNS/</id>
+        <link href="https://gaoneng-www.github.io/posts/what-is-DNS/"/>
+        <updated>2022-12-22T16:00:00.000Z</updated>
+        <summary type="html"><![CDATA[DNS服务是互联网必不可少的一项服务，在并不遥远的以前，人们需要记忆IP地址来访问网站，这十分的痛苦，但在当时也的确没有什么很好的办法。直到DNS出现了]]></summary>
+        <author>
+            <name>高能</name>
+            <email>gaonenggg@outlook.com</email>
+        </author>
+    </entry>
+</feed>

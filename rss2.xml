@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>高能的木屋</title>
+        <link>https://gaoneng-www.github.io</link>
+        <description>主要是发一些杂七杂八的东西,例如前端开发、后端开发、CTF解题、CTF解题思路等...</description>
+        <lastBuildDate>Fri, 30 Dec 2022 06:10:09 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[自我介绍]]></title>
+            <link>https://gaoneng-www.github.io/posts/about/</link>
+            <guid>https://gaoneng-www.github.io/posts/about/</guid>
+            <pubDate>Wed, 09 Nov 2022 16:00:00 GMT</pubDate>
+            <description><![CDATA[关于高能目前公开的情报]]></description>
+            <author>gaonenggg@outlook.com (高能)</author>
+            <enclosure url="https://gaoneng-www.github.io/img/13p639.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[DNS原理简述]]></title>
+            <link>https://gaoneng-www.github.io/posts/what-is-DNS/</link>
+            <guid>https://gaoneng-www.github.io/posts/what-is-DNS/</guid>
+            <pubDate>Thu, 22 Dec 2022 16:00:00 GMT</pubDate>
+            <description><![CDATA[DNS服务是互联网必不可少的一项服务，在并不遥远的以前，人们需要记忆IP地址来访问网站，这十分的痛苦，但在当时也的确没有什么很好的办法。直到DNS出现了]]></description>
+            <author>gaonenggg@outlook.com (高能)</author>
+            <enclosure url="https://gaoneng-www.github.io/img/13p639.png" length="0" type="image/png"/>
+        </item>
+    </channel>
+</rss>
